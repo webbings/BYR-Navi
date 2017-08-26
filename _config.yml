@@ -7,7 +7,7 @@ analytics:
       url: https://vps.irockbunny.com/analytics/?callback=?
       token: da5033161dca3573d8d0c2c07458c898
 
-repository: BYR-Navi/BYR-Navi
+repository: My-Navi/My-Navi
 repository_url: https://github.com/BYR-Navi/BYR-Navi
 
 timezone: Asia/Shanghai
@@ -18,7 +18,7 @@ author: iROCKBUNNY
 author_url: http://irockbunny.com
 organization: TEELAB
 organization_url: http://teelab.net
-description: A Navigation Website for BYR
+description: A Navigation Website
 keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
 url: http://uquweb.com
 contact: contact[at]irockbunny[dot]com
